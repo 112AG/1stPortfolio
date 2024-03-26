@@ -30,13 +30,12 @@ main{
     padding: 0.9vw 0vw;
 }
 #one{
-    height: 55px;
-    width: 55px;
+    height: 5vw;
+    width: 5vw;
     position: fixed;
-    right: 170px;
+    right: 17vw;
     top: 30px;
-    font-size: 22px;
-    border: 1px solid black;
+    font-size: 2.7vw;
     border-radius: 50%;
     background-color: rgba(0, 0, 0, 0.877);
     color: white;
@@ -46,14 +45,13 @@ main{
     z-index: 9;
 }
 #two{
-    height: 55px;
-    width: 116px;
+    height: 5vw;
+    width: 10vw;
     position: fixed;
-    right: 50px;
+    right: 5vw;
     top: 30px;
-    font-size: 25px;
-    border: 1px solid rgba(0, 0, 0, 0.93);
-    border-radius: 35px;
+    font-size: 2.5vw;
+    border-radius: 3vw;
     background-color: rgba(0, 0, 0, 0.877);
     color: white;
     display: flex;
@@ -97,7 +95,7 @@ main{
 .pThree .icons>#iO{
     height: 6vw;
     width: 6vw;
-    font-size: 4vw;
+    font-size: 3.5vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -108,7 +106,7 @@ main{
 .pThree .icons>#iT{
     height: 6vw;
     width: 6vw;
-    font-size: 4vw;
+    font-size: 3.5vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -119,7 +117,7 @@ main{
 .pThree .icons>#iTH{
     height: 6vw;
     width: 6vw;
-    font-size: 4vw;
+    font-size: 3.5vw;
     display: flex;
     align-items: center;
     justify-content: center;
