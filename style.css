@@ -71,7 +71,7 @@ main{
 .pThree{
     /* height: 110%; */
     width: 100%;
-    padding: 60px 57px;
+    padding: 4vw 5vw;
     display: flex;
 }
 .pThree>h1{
